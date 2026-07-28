@@ -12,7 +12,8 @@ Utilizo IA como ferramenta de apoio ao aprendizado e à produtividade:
 - Para revisar e aprimorar meu próprio trabalho antes de publicar
 
 ### Projetos
-Em construção — os primeiros projetos de Power BI e SQL serão adicionados aqui.
+- 🏥 [Dashboard de Atendimentos em Saúde](https://github.com/avteixeira/dashboard-saude-powerbi) — Power BI
+- 💼 [Dashboard de Vendas](https://github.com/avteixeira/dashboard-vendas-sql-powerbi) — SQL + Power BI
 
 ### Contato
 LinkedIn: [https://www.linkedin.com/in/amanda-vit%C3%B3ria-2297a1166/]
